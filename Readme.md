@@ -23,4 +23,4 @@ A simple home page for a plant company created using `HTML` and `CSS`. This proj
 - How to use CSS `transition` property on a button upon being hovered
 - How to position an image using CSS `absolute` property
 
-### [**Live link**](https://portfolio-project-6.vercel.app/) of the project.
+### [**Live link**](https://portfolio-project-6.vercel.app/) of the project
