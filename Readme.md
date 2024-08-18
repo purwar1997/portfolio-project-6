@@ -7,7 +7,7 @@
 
 This project is a home page for a plant selling company. It is created using `HTML` and `CSS`.
 
-## Learnings from this project :-
+### Learnings from this project :-
 
 - How to create a navigation bar
 - How to zoom svg images upon being hovered
