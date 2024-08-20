@@ -1,20 +1,20 @@
 # Portfolio Project 6
 
-![HTML](https://img.shields.io/badge/-HTML-red)
-![CSS](https://img.shields.io/badge/-CSS-blueviolet)
+![HTML5](https://img.shields.io/badge/-HTML5-red)
+![CSS3](https://img.shields.io/badge/-CSS3-blueviolet)
 
 ## Description
 
-This project is a home page for a plant selling company. It is created using `HTML` and `CSS`.
+This project is a landing page for a plant shop. It is built using `HTML` and `CSS`.
 
-### Learnings from this project :-
+### Learnings from this project -
 
 - How to create a navigation bar
-- How to zoom svg images upon being hovered
+- How to scale up `svg images` upon being hovered
 - How to use CSS `transition` property on a button
-- How to position an image using CSS `absolute` property
+- How to position images using `position` property of CSS
 
-### Preview of the project :-
+### Preview of the project
 
 ![preview](./preview.png)
 
